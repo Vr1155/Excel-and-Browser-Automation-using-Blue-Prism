@@ -1,6 +1,7 @@
 KINDLY REFER TO THE PPT FOR IMPORTANT DESCRIPTION OF THE PROJECT.
 
-THIS README CONTAINS SOME IMPORTANT INFORMATION REGARDING ASSIGNMENTS:
+
+THIS README CONTAINS SOME IMPORTANT INSTRUCTIONS TO SUCCESSFULL EXECUTE EACH ASSIGNMENT OF THE PROJECT:
 
 set environment variable according to where you want to create folders. by default i have set it to "C:\FOLDER\" you can change it for your desktop while running for your desktop, dont forget the "\" in the end. keep same environment variable for all 5 assignments.
 
